@@ -1,0 +1,1 @@
+**This is the folder for storing datasets, and the CoNLL03, OntoNotes 5.0, OntoNotes 4.0, and BC5CDR datasets should be placed in this folder.**
